@@ -1,2 +1,2 @@
-# Monster-Fight-
+# Monster-Fight
 OOP logic game
